@@ -5,13 +5,13 @@ A MIDI Remote Script enhancement which adds '5ths' to the list of scales for you
 
 This customized version of Ableton Live's `scales_component` Python module adds **5ths** to the list of available chromatic scales. This tuning is perfect if you are a string player used to mandolin, violin, Chapman Stick, or Robert Fripp's NST (New Standard Tuning) for guitar. It's also great for getting some very beautiful and wide chord voicings on synthesizers with limited polyphony, (Volca Keys, Minilogue, etc). 
 
-Installation is pretty easy.:
+Installation is pretty easy:
 
 1. **Make sure you're not running Live.**
 
-2. **Back up Ableton's MIDI Remote Scripts.** From the terminal, you can find these files at `/Applications/Ableton\ Live\ 9\ Suite.app/Contents/App-Resources/MIDI\ Remote\ Scripts/Push2/`
+2. Back up Ableton's MIDI Remote Scripts in `/Applications/Ableton Live 9 Suite.app/Contents/App-Resources/MIDI Remote Scripts/Push2`. From the terminal, you can find these files at `/Applications/Ableton Live 9 Suite.app/Contents/App-Resources/MIDI Remote Scripts/Push2`. To get there from the terminal, you can just copy and paste `cd /Applications/Ableton\ Live\ 9\ Suite.app/Contents/App-Resources/MIDI\ Remote\ Scripts/Push2/` into the Terminal app.
 
-2. In the above-mentioned directory, delete `scales_component.pyc`
+2. In the above-mentioned directory, delete `scales_component.pyc`. (If you're not a commandline kind of a person, you can type `open .` once you're in this directory and you can use the Finder)
 
 3. Copy `scales_component.py` (this file) to `/Applications/Ableton\ Live\ 9\ Suite.app/Contents/App-Resources/MIDI\ Remote\ Scripts/Push2/`
 
