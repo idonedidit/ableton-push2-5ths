@@ -13,6 +13,6 @@ Installation is pretty easy:
 
 2. In the above-mentioned directory, delete `scales_component.pyc`. (If you're not a commandline kind of a person, you can type `open .` once you're in this directory and you can use the Finder)
 
-3. Copy `scales_component.py` (this file) to `/Applications/Ableton\ Live\ 9\ Suite.app/Contents/App-Resources/MIDI\ Remote\ Scripts/Push2/`
+3. Copy `scales_component.py` into the directory. 
 
 Now when you push the `Scale` button on your Push2, you will have `5ths` as an available option.
