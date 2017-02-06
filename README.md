@@ -5,7 +5,7 @@ A MIDI Remote Script enhancement which adds '5ths' to the list of scales for you
 
 This customized version of Ableton Live's `scales_component` Python module adds **5ths** to the list of available chromatic scales. This tuning is perfect if you are a string player used to mandolin, violin, Chapman Stick, or Robert Fripp's NST (New Standard Tuning) for guitar. It's also great for getting some very beautiful and wide chord voicings on synthesizers with limited polyphony, (Volca Keys, Minilogue, etc). 
 
-Installation is pretty easy:
+Installation is pretty easy, and Ableton actually has a page to show you how to do this more generally at https://help.ableton.com/hc/en-us/articles/209072009-How-to-install-a-third-party-Remote-Script- but just in case...
 
 1. **Make sure you're not running Live.**
 
