@@ -39,10 +39,10 @@ class ScalesComponent(Component):
         self._selected_scale_index = -1
         self._selected_root_note_index = -1
         self._layouts = (
-         Layout(b'5ths', 4),
-         Layout(b'4ths', 3),
-         Layout(b'3rds', 2),
-         Layout(b'Sequential', None))
+            Layout(b'5ths', 4),
+            Layout(b'4ths', 3),
+            Layout(b'3rds', 2),
+            Layout(b'Sequential', None))
         self._selected_layout_index = 0
         self.in_key_toggle_button.connect_property(note_layout, b'is_in_key')
         self.fixed_toggle_button.connect_property(note_layout, b'is_fixed')
