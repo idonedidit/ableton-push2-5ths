@@ -1,7 +1,7 @@
 # push2-fifths-scale
 A MIDI Remote Script enhancement which adds '5ths' to the list of scales for your Push2 for use with Ableton Live
 
-## 5ths for Push2 (scripts both for 9.6 and 10)
+## 5ths for Push2 (scripts for 9.6, 9.7.5 and 10)
 
 This customized version of Ableton Live's `scales_component` Python module adds **5ths** to the list of available chromatic scales. This tuning is perfect if you are a string player used to mandolin, violin, Chapman Stick, or Robert Fripp's NST (New Standard Tuning) for guitar. It's also great for getting some very beautiful and wide chord voicings on synthesizers with limited polyphony, (Volca Keys, Minilogue, etc). 
 
